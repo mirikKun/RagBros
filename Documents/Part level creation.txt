@@ -1,0 +1,9 @@
+Parts of the level are pre-created in which there are two important elements, 
+the point at which this part begins and the point at which this part ends. 
+The algorithm simply selects a random one from these parts and puts it in front 
+of the character so that the beginning coincides with the end of the previous one, thus the level is built.
+
+Parts are placed while the character moves at a certain distance from him
+Parts that he has already run at a certain distance are removed
+
+

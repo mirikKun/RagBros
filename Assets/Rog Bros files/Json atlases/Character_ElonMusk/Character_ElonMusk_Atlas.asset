@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Character_ElonMusk_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 54b0264b57fb31547b0e5b1b928a8115, type: 3}
+  materials:
+  - {fileID: 2100000, guid: fdc74b2cc45d74f47986de096aeec19f, type: 2}
+  - {fileID: 2100000, guid: 26123fdb6c9b4054e80482cc4a21a1da, type: 2}
